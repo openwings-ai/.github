@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="220" viewBox="0 0 880 220" role="img" aria-labelledby="title">
+  <title id="title">OpenWings</title>
+  <rect x=".5" y=".5" width="879" height="219" rx="12" fill="#FAFBFC" stroke="#D8DEE4"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="40" y="118" fill="#17202B" font-size="68" font-weight="700" letter-spacing="-2">OpenWings</text>
+    <text x="43" y="160" fill="#526170" font-size="22">openwings.com.br</text>
+  </g>
+  <path transform="translate(630 67) scale(.29)" d="M719,80 L714,68 L704,60 L683,54 L658,54 L655,51 L658,44 L634,29 L614,25 L543,29 L501,44 L509,83 L508,109 L504,120 L501,75 L483,44 L442,11 L422,4 L390,0 L321,15 L0,126 L48,155 L76,165 L99,166 L148,154 L300,101 L325,99 L342,106 L126,190 L171,216 L194,225 L212,226 L388,157 L391,160 L388,167 L370,185 L230,243 L247,257 L280,271 L302,276 L334,276 L374,266 L421,242 L547,146 L599,115 L643,99 L678,94 L697,98 L705,109 L716,96 Z M586,47 L588,45 L590,45 L591,44 L595,44 L596,43 L601,43 L602,42 L611,42 L612,43 L616,43 L617,44 L619,44 L620,45 L623,46 L624,47 L624,49 L622,51 L620,51 L619,52 L617,52 L616,53 L612,53 L611,54 L606,54 L605,55 L603,55 L602,54 L600,54 L599,53 L596,53 L595,52 L593,52 L592,51 L590,51 L589,50 L587,50 L586,49 Z" fill="#B02C1E" fill-rule="evenodd"/>
+</svg>
